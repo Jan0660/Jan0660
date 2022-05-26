@@ -1,6 +1,6 @@
 # Jan0660
 
-[![discord](https://img.shields.io/discord/749601186155462748?logo=discord&label=Discord)](https://discord.gg/zBbV56e) [![revolt](https://shields.revolt.gay/revolt/invite/GEqFb9j7?logo=revolt&label=Revolt)](https://rvlt.gg/GEqFb9j7)
+[![discord](https://img.shields.io/discord/749601186155462748?logo=discord&label=Discord)](https://discord.gg/zBbV56e) [![revolt](https://shields.jan0660.dev/revolt/invite/GEqFb9j7?logo=revolt&label=Revolt)](https://rvlt.gg/GEqFb9j7)
 
 Hello there, I'm Jan!
 
