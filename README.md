@@ -1,10 +1,11 @@
 # Jan0660
 
-[![discord](https://img.shields.io/discord/749601186155462748?logo=discord&label=Discord)](https://discord.gg/zBbV56e) [![revolt](https://shields.jan0660.dev/revolt/invite/GEqFb9j7?logo=revolt&label=Revolt)](https://rvlt.gg/GEqFb9j7)
+[![discord](https://img.shields.io/discord/749601186155462748?logo=discord&label=Discord)](https://discord.gg/zBbV56e)
 
 Hello there, I'm Jan!
 
-I make and maintain a few libraries here on GitHub like [Log73](https://github.com/Jan0660/Log73) and [AzurAPI/AzurAPINet](https://github.com/AzurAPI/AzurAPINet), a [Revolt](https://revolt.chat) ~~bot~~ machine called [Taco](https://github.com/Jan0660/Taco) and the [JanD process manager](https://github.com/Jan0660/JanD).
+Here I develop the [RCaron(ř) programming language](https://github.com/Jan0660/RCaron) and the [JanD process manager](https://github.com/Jan0660/JanD).
+I also make and maintain a few libraries: [Log73](https://github.com/Jan0660/Log73) and [AzurAPI/AzurAPINet](https://github.com/AzurAPI/AzurAPINet).
 
 <details>
   <summary>Click for GitHub stats</summary>
